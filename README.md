@@ -1,2 +1,2 @@
-# Research-on-AIML
+# Research-projects
 My take on AI/ML
